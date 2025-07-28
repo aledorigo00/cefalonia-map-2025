@@ -16,7 +16,7 @@ st.markdown("""
 
 # Data preparation
 df = pd.DataFrame({
-    'nome': ["Spiaggia Lourdas", "Lourdata", "Melissani Cave", "Sami", "Myrtos Beach", "Skala Beach",
+    'nome': ["Spiaggia Lourdas ", "Lourdata", "Melissani Cave", "Sami", "Myrtos Beach", "Skala Beach",
              "Monte Ainos", "Old Vlachata", "Cantina Robola", "Assos", "Xi Beach",
              "Monastero Agios Gerasimos", "Argostoli", "Poros", "Trapezaki Beach"],
     'categoria': ["Spiaggia", "Città", "Escursione", "Città", "Spiaggia", "Spiaggia",
