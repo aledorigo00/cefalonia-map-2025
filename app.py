@@ -1,8 +1,9 @@
 import streamlit as st
 import folium
 import folium.plugins
-from streamlit_folium import st_folium
 import pandas as pd
+from streamlit_folium import st_folium
+
 
 # Force Streamlit to use full width
 st.markdown("""
